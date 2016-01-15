@@ -1,8 +1,8 @@
-package raza4;
+package Raza4;
 
 import java.util.Scanner;
 
-public class raza4 {
+public class Raza4 {
 	
 	private static final Scanner scanner = new Scanner( System.in );
 
