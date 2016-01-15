@@ -1,4 +1,4 @@
-package raza4;
+package Raza4;
 
 public class LinePoint
 {
